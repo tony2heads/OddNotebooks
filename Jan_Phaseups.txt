@@ -1,0 +1,170 @@
+Sync array 1 @1482910080
+Sync array 3 @1483097088
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/01/1483239607.h5  4k 03,06,10,14,15,21,22,25,31,62,63 XXXXXX NONE XXXXXX
+
+Sync array 3 @1483435776
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/03/1483458212.h5  4k 01,06,07,08,14,15,21,22,25,31,62,63 PKS0408-65
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/03/1483474509.h5  4k 01,06,07,08,14,15,21,22,25,31,62,63 PKS0408-65
+Sync array 3 @1483482441.14286
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/04/1483503720.h5  4k 01,06,07,08,14,15,21,22,25,31,62,63 3C286
+
+Sync array 3 @1483524864
+Sync array 3 @1483547307.18072
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/04/1483525343.h5  4k 06,07,08,14,15,21,22,25,31,62,63 PKS1934-63
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/04/1483554826.h5  4k 06,07,08,14,15,21,22,25,31,62,63 PKS0408-65
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/04/1483566995.h5  4k 06,07,08,14,15,21,22,25,31,62,63 PKS0408-65
+
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/05/1483631860.h5 32k 06,07,08,14,15,21,22,25,31,62,63 PKS0408-65
+Sync array 3 @1483694208
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/06/1483695077.h5 32k 06,07,14,15,21,22,25,31,62,63 PKS1934-63
+
+Sync array 3 @1483696494.93333
+Sync array 3 @1483722080
+Sync array 3 @1483728512
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/06/1483730319.h5  4k 06,07,14,15,21,22,25,31,62,63 PKS0408-65
+Sync array 3 @1483743858.73171
+Sync array 3 @1483776000
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/07/1483779531.h5  4k 06,07,14,15,21,22,25,31,62,63 PKS1934-63
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/07/1483801850.h5  4k 06,07,14,15,21,22,25,31,62,63 PKS1934-63
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/07/1483831455.h5  4k 06,07,14,15,21,22,25,31,62,63 PKS0408-65
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/08/1483860737.h5  4k 06,07,14,15,21,22,25,31,62,63 PKS1934-63
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/08/1483890271.h5  4k 06,07,14,15,21,22,25,31,62,63 PKS0408-65
+
+Sync array 1+3 @1483952768
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/09/1483971444.h5 32k 06,07,14,15,21,22,31,62,63 PKS1934-63
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/09/1483987120.h5 32k 06,07,14,15,21,22,31,62,63 PKS0408-65 
+
+Sync array 1 @1484012539.87097
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/10/1484016574.h5 32k 06,07,14,15,21,22,31,62,63 3C286
+
+Sync array1 @1484036992
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/10/1484052717.h5  4k 06,07,14,15,21,22,25,31,62,63 PKS1934-63
+
+Sync array 1 @1484068338.82353
+Sync array 1 @1484071936
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/10/1484072660.h5  4k 07,14,15,21,22,25,31,63 PKS0408-65
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/11/1484102543.h5  4k 07,14,15,21,22,25,31,63 3C286
+
+Sync array 1 @1484147968
+Sync array 1 @1484148552.05298
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/11/1484151224.h5 32k 06,07,14,15,21,22,25,31,62,63 PKS0408-65
+
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/11/1484152136.h5 32k 06,07,14,15,21,22,25,63 PKS0408-65
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/11/1484152678.h5 32k 06,07,14,15,21,22,25,63 PKS0408-65
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/11/1484154840.h5 32k 06,07,14,15,21,22,25,63 PKS0408-65
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/12/1484186407.h5 32k 06,07,14,15,21,22,25,63 PKS0408-65
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/12/1484203918.h5 32k 06,07,14,15,21,22,25,63 PKS1934-63
+
+Sync array 1 @1484236160
+Sync array 1 @1484236873.3758
+Sync array 1 @1484236928
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/12/1484238935.h5  4k 01,03,06,07,08,10,14,15,21,22,25,31,63 PKS0408-65
+
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/12/1484242026.h5  4k 01,03,06,07,10,14,15,21,22,25,31,63 PKS0408-65
+
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/13/1484277446.h5 32k 01,03,06,07,10,14,15,21,22,25,31,63 3C286
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/13/1484279104.h5 32k 01,03,06,07,10,14,15,21,22,25,31,63 3C286
+
+Sync array 1 @1484325376
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/13/1484326727.h5 32k 01,03,06,07,08,10,14,15,21,22,25,31,63 PKS0408-65
+Sync array 1 @1484339687.11111
+Sync array 1 @1484340516.57143
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/14/1484369106.h5 32k 01,03,06,07,08,10,14,15,21,22,25,31,63 3C286
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/14/1484369973.h5 32k 01,03,06,07,08,10,14,15,21,22,25,31,63 PKS1934-63
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/14/1484370720.h5 32k 01,03,06,07,08,10,14,15,21,22,25,31,63 PKS1934-63
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/14/1484386258.h5 32k 01,03,06,07,08,10,14,15,21,22,25,31,63 PKS1934-63
+Sync array 1 @1484387200
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/14/1484388468.h5 32k 01,03,06,07,08,10,14,15,21,22,25,31,63 PKS1934-63
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/14/1484403730.h5 32k 01,03,06,07,08,10,14,15,21,22,25,31,63 PKS1934-63
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/14/1484418907.h5 32k 01,03,06,07,08,10,14,15,21,22,25,31,63 PKS0408-65
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/14/1484430605.h5 32k 01,03,06,07,08,10,14,15,21,22,25,31,63 PKS0408-65
+Sync array 1 @1484476544
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/15/1484486403.h5 32k 01,03,06,07,08,10,14,15,21,22,25,31,63 PKS1934-63
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/15/1484486874.h5 32k 01,03,06,07,08,10,14,15,21,22,25,31,63 PKS1934-63
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/15/1484487633.h5 32k 01,03,06,07,08,10,14,15,21,22,25,31,63 PKS1934-63
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/15/1484503809.h5 32k 01,03,06,07,08,10,14,15,21,22,25,31,63 PKS0408-65
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/15/1484504485.h5 32k 01,03,06,07,08,10,14,15,21,22,25,31,63 PKS0408-65
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/15/1484507182.h5 32k 01,03,06,07,08,10,14,15,21,22,25,31,63 XXXXXX NONE XXXXXX
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/15/1484507493.h5 32k 01,03,06,07,08,10,14,15,21,22,25,31,63 PKS0408-65
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/16/1484525405.h5 32k 01,03,06,07,08,10,14,15,21,22,25,31,63 PKS0408-65
+
+Sync array 1 @1484561280
+Sync array 1 @1484562560
+
+Sync array 1+3 @1484595456
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/16/1484596404.h5 32k 01,03,07,08,10,14,15,21,22,25,31,63 PKS0408-65
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/16/1484596904.h5 32k 01,03,07,08,10,14,15,21,22,25,31,63 PKS0408-65
+Sync array 1 @1484573824
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/16/1484597564.h5 32k 01,03,07,08,10,14,15,21,22,25,31,63 PKS0408-65
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/16/1484598256.h5 32k 01,03,07,08,10,14,15,21,22,25,31,63 PKS0408-65
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/16/1484598839.h5 32k 01,03,07,08,10,14,15,21,22,25,31,63 PKS0408-65
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/16/1484599545.h5 32k 01,03,07,08,10,14,15,21,22,25,31,63 PKS0408-65
+
+Sync array 1+3@1484600960
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/16/1484603276.h5 32k 01,03,07,08 PKS0408-65
+
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/17/1484635402.h5 32k 01,03,07,10,15,21,22,25,31,63 PKS1934-63 OK
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/17/1484636559.h5 32k 01,03,07,10,15,21,22,25,31,63 PKS1934-63 OK
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/17/1484639491.h5 32k 01,03,07,10,15,21,22,25,31,63 PKS1934-63 Some BAD
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/17/1484639910.h5 32k 01,03,07,10,15,21,22,25,31,63 PKS1934-63 Some BAD
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/17/1484640838.h5 32k 01,03,07,10,15,21,22,25,31,63 PKS1934-63 OK
+
+
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/17/1484684152.h5  4k 01,03,06,07,08,10,15,21,22,25,31,62,63 PKS0408-65 BAD
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/17/1484685053.h5  4k 01,03,06,07,08,10,15,21,22,25,31,62,63 PKS0408-65 BAD
+
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/17/1484686787.h5  4k 01,03,06,07,08,10,15,21,22,25,31,63 PKS0408-65 OK
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/17/1484694008.h5  4k 01,03,06,07,08,10,15,21,22,25,31,63 PKS0408-65 OK
+
+Sync array 1 @1484720768
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/18/1484721171.h5  4k 01,03,06,07,08,10,14,15,21,22,25,31,62,63 PKS1934-63 BAD
+
+Sync array 1 @1484735360
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/18/1484737275.h5 32k 01,03,06,07,08,10,14,15,21,22,25,31,63 XXXXXX NONE XXXXXX
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/18/1484737655.h5 32k 01,03,06,07,08,10,14,15,21,22,25,31,63 PKS1934-63 Some bad
+
+Error in phaseup introduced here?
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/18/1484765295.h5  4k 01,06,07,08,10,14,15,21,22,31,63 PKS0408-65 BAD
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/18/1484765697.h5  4k 01,06,07,08,10,14,15,21,22,31,63 PKS0408-65 BAD
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/18/1484775906.h5  4k 01,06,07,08,10,14,15,21,22,31,63 PKS0408-65 BAD
+
+Sync array 1 @1484817152
+Sync array 1 @1484819968
+Sync array 1 @1484822144
+Sync array 1 @1484827136
+Sync array 1 @1484827554.13333
+Sync array 1 @1484832512
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/19/1484834259.h5  4k 07,08,10,15 PKS1934-63 BAD
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/19/1484834694.h5  4k 07,08,10,15 PKS1934-63 BAD
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/19/1484835084.h5  4k 07,08,10,15 PKS1934-63 BAD
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/19/1484835566.h5  4k 07,08,10,15 PKS1934-63 BAD
+
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/20/1484890970.h5  4k 01,06,07,08,10,15,21,31,63 PKS1934-63 BAD
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/20/1484909143.h5  4k 01,06,07,08,10,15,21,31,63 PKS1934-63 BAD 
+
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/20/1484910689.h5 32k 01,06,07,08,10,15,21,22,31,62,63 PKS1934-63 BAD
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/20/1484911510.h5 32k 01,06,07,08,10,15,21,22,31,62,63 PKS1934-63 BAD
+
+Phaseup problem fixed
+Sync array 1 @1484918400
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/20/1484919292.h5  4k 01,06,07,08,10,15,21,22,31,62,63 XXXXXX NONE XXXXXX
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/20/1484919613.h5  4k 01,06,07,08,10,15,21,22,31,62,63 PKS1934-63 OK
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/20/1484920991.h5  4k 01,06,07,08,10,15,21,22,31,62,63 PKS1934-63 OK
+
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/20/1484921947.h5 32k 01,06,07,08,10,15,21,22,31,62,63 PKS1934-63 Some bad
+
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/20/1484932819.h5  4k 06,07,08,10,15,21,22,31,62,63 PKS0408-65 OK
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/20/1484934307.h5  4k 06,07,08,10,15,21,22,31,62,63 PKS0408-65 OK
+
+Sync array 1 @1484984320
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/21/1484996150.h5  4k 01,06,07,08,10,15,21,22,25,31,62,63 PKS1934-63 OK
+
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/21/1485008689.h5  4k 01,06,07,08,10,15,21,22,25,31,63 XXXXXX NONE XXXXXX
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/21/1485009587.h5  4k 01,06,07,08,10,15,21,22,25,31,63 PKS0408-65 OK
+Sync array 1 @1485076736
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/22/1485077120.h5  4k 01,06,07,08,10,15,21,22,25,31,63 PKS1934-63 OK
+
+Sync array 1+3 @1485151360
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/23/1485151992.h5  4k 01,06,07,15,21,22,25,31,63 PKS1934-63 OK
+
+/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/01/23/1485157053.h5  4k 01,06,07,15,21,22,25,63 PKS1934-63

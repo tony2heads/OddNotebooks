@@ -1,0 +1,331 @@
+SORTORD = 'TB      '
+SPECSYS = 'TOPOCENT'
+AIPS WTSCAL = 1.0
+FITS: Miriad fits: CVS Revision 1.20, 2012/01/13 17:21:41 UTC
+FITS: Executed on: 2013-07-05T18:04:31.0
+FITS: Command line inputs follow:
+FITS:   in=J1424-4913.fits
+FITS:   out=J1424-4913.mir
+FITS:   op=uvin
+UVFLAG: Executed on: 2013-07-05T18:09:51.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir
+UVFLAG:   line=channel,1,312
+UVFLAG:   flagval=flag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir
+UVFLAG: Changed flags set to FALSE (data flagged as bad)
+UVFLAG: Total number of records selected: 13356; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:          12951          0    Changed to bad:      12951
+UVFLAG: Bad:             405      13356
+UVFLAG: Executed on: 2013-07-05T18:26:19.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir
+UVFLAG:   line=channel,1,312
+UVFLAG:   flagval=flag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir
+UVFLAG: Changed flags set to FALSE (data flagged as bad)
+UVFLAG: Total number of records selected: 13356; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:              0          0    Changed to bad:          0
+UVFLAG: Bad:           13356      13356
+UVFLAG: Executed on: 2013-07-05T18:26:20.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir
+UVFLAG:   line=channel,1,483
+UVFLAG:   flagval=flag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir
+UVFLAG: Changed flags set to FALSE (data flagged as bad)
+UVFLAG: Total number of records selected: 13356; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:          13346          0    Changed to bad:      13346
+UVFLAG: Bad:              10      13356
+UVFLAG: Executed on: 2013-07-05T18:29:32.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir
+UVFLAG:   line=channel,1,312
+UVFLAG:   flagval=flag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir
+UVFLAG: Changed flags set to FALSE (data flagged as bad)
+UVFLAG: Total number of records selected: 13356; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:              0          0    Changed to bad:          0
+UVFLAG: Bad:           13356      13356
+UVFLAG: Executed on: 2013-07-05T18:29:32.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir
+UVFLAG:   line=channel,1,483
+UVFLAG:   flagval=flag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir
+UVFLAG: Changed flags set to FALSE (data flagged as bad)
+UVFLAG: Total number of records selected: 13356; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:              0          0    Changed to bad:          0
+UVFLAG: Bad:           13356      13356
+UVFLAG: Executed on: 2013-07-05T18:31:14.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir
+UVFLAG:   line=channel,1,312
+UVFLAG:   flagval=flag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir
+UVFLAG: Changed flags set to FALSE (data flagged as bad)
+UVFLAG: Total number of records selected: 13356; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:              0          0    Changed to bad:          0
+UVFLAG: Bad:           13356      13356
+UVFLAG: Executed on: 2013-07-05T18:31:14.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir
+UVFLAG:   line=channel,1,483
+UVFLAG:   flagval=flag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir
+UVFLAG: Changed flags set to FALSE (data flagged as bad)
+UVFLAG: Total number of records selected: 13356; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:              0          0    Changed to bad:          0
+UVFLAG: Bad:           13356      13356
+UVFLAG: Executed on: 2013-07-05T18:36:29.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir/
+UVFLAG:   flagval=unflag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir/
+UVFLAG: Changed flags set to TRUE (data flagged as good)
+UVFLAG: Total number of records selected: 13356; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:        7986835    8013600
+UVFLAG: Bad:           26765          0    Changed to good:      26765
+UVFLAG: wide      Originally  Currently
+UVFLAG: Good:              0          0
+UVFLAG: Bad:               0          0    Changed to good:          0
+UVFLAG: Executed on: 2013-07-05T18:36:51.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir
+UVFLAG:   line=channel,1,312
+UVFLAG:   flagval=flag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir
+UVFLAG: Changed flags set to FALSE (data flagged as bad)
+UVFLAG: Total number of records selected: 13356; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:          13356          0    Changed to bad:      13356
+UVFLAG: Bad:               0      13356
+UVFLAG: Executed on: 2013-07-05T18:36:51.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir
+UVFLAG:   line=channel,1,483
+UVFLAG:   flagval=flag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir
+UVFLAG: Changed flags set to FALSE (data flagged as bad)
+UVFLAG: Total number of records selected: 13356; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:          13356          0    Changed to bad:      13356
+UVFLAG: Bad:               0      13356
+UVFLAG: Executed on: 2013-07-05T18:36:52.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir
+UVFLAG:   select=time(13JUL03:15:26:00,13JUL03:15:27:00)
+UVFLAG:   line=channel,0,118
+UVFLAG:   flagval=flag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir
+UVFLAG: Changed flags set to FALSE (data flagged as bad)
+UVFLAG: Total number of records selected: 168; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:          80808          0    Changed to bad:      80808
+UVFLAG: Bad:             336      81144
+UVFLAG: Executed on: 2013-07-05T18:36:55.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir/
+UVFLAG:   flagval=unflag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir/
+UVFLAG: Changed flags set to TRUE (data flagged as good)
+UVFLAG: Total number of records selected: 13356; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:        7906080    8013600
+UVFLAG: Bad:          107520          0    Changed to good:     107520
+UVFLAG: wide      Originally  Currently
+UVFLAG: Good:              0          0
+UVFLAG: Bad:               0          0    Changed to good:          0
+UVFLAG: Executed on: 2013-07-05T18:36:57.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir
+UVFLAG:   line=channel,1,312
+UVFLAG:   flagval=flag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir
+UVFLAG: Changed flags set to FALSE (data flagged as bad)
+UVFLAG: Total number of records selected: 13356; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:          13356          0    Changed to bad:      13356
+UVFLAG: Bad:               0      13356
+UVFLAG: Executed on: 2013-07-05T18:36:57.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir
+UVFLAG:   line=channel,1,483
+UVFLAG:   flagval=flag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir
+UVFLAG: Changed flags set to FALSE (data flagged as bad)
+UVFLAG: Total number of records selected: 13356; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:          13356          0    Changed to bad:      13356
+UVFLAG: Bad:               0      13356
+UVFLAG: Executed on: 2013-07-05T18:36:58.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir
+UVFLAG:   select=time(13JUL03:15:26:00,13JUL03:15:27:00)
+UVFLAG:   line=channel,0,118
+UVFLAG:   flagval=flag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir
+UVFLAG: Changed flags set to FALSE (data flagged as bad)
+UVFLAG: Total number of records selected: 168; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:          80808          0    Changed to bad:      80808
+UVFLAG: Bad:             336      81144
+UVFLAG: Executed on: 2013-07-05T18:37:54.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir/
+UVFLAG:   flagval=unflag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir/
+UVFLAG: Changed flags set to TRUE (data flagged as good)
+UVFLAG: Total number of records selected: 13356; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:        7906080    8013600
+UVFLAG: Bad:          107520          0    Changed to good:     107520
+UVFLAG: wide      Originally  Currently
+UVFLAG: Good:              0          0
+UVFLAG: Bad:               0          0    Changed to good:          0
+UVFLAG: Executed on: 2013-07-05T18:37:57.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir
+UVFLAG:   line=channel,1,312
+UVFLAG:   flagval=flag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir
+UVFLAG: Changed flags set to FALSE (data flagged as bad)
+UVFLAG: Total number of records selected: 13356; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:          13356          0    Changed to bad:      13356
+UVFLAG: Bad:               0      13356
+UVFLAG: Executed on: 2013-07-05T18:37:57.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir
+UVFLAG:   line=channel,1,483
+UVFLAG:   flagval=flag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir
+UVFLAG: Changed flags set to FALSE (data flagged as bad)
+UVFLAG: Total number of records selected: 13356; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:          13356          0    Changed to bad:      13356
+UVFLAG: Bad:               0      13356
+UVFLAG: Executed on: 2013-07-05T18:37:57.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir
+UVFLAG:   select=time(13JUL03:15:26:00,13JUL03:15:27:00)
+UVFLAG:   line=channel,118,1
+UVFLAG:   flagval=flag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir
+UVFLAG: Changed flags set to FALSE (data flagged as bad)
+UVFLAG: Total number of records selected: 168; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:          19824          0    Changed to bad:      19824
+UVFLAG: Bad:               0      19824
+UVFLAG: Executed on: 2013-07-05T18:38:45.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir
+UVFLAG:   line=channel,1,312
+UVFLAG:   flagval=flag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir
+UVFLAG: Changed flags set to FALSE (data flagged as bad)
+UVFLAG: Total number of records selected: 13356; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:              0          0    Changed to bad:          0
+UVFLAG: Bad:           13356      13356
+UVFLAG: Executed on: 2013-07-05T18:38:45.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir
+UVFLAG:   line=channel,1,483
+UVFLAG:   flagval=flag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir
+UVFLAG: Changed flags set to FALSE (data flagged as bad)
+UVFLAG: Total number of records selected: 13356; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:              0          0    Changed to bad:          0
+UVFLAG: Bad:           13356      13356
+UVFLAG: Executed on: 2013-07-05T18:38:46.0
+UVFLAG: Command line inputs follow:
+UVFLAG:   vis=J1424-4913.mir
+UVFLAG:   select=time(13JUL03:15:25:00,13JUL03:15:27:00)
+UVFLAG:   line=channel,118,1
+UVFLAG:   flagval=flag
+UVFLAG: Overview of flagging on visibility file J1424-4913.mir
+UVFLAG: Changed flags set to FALSE (data flagged as bad)
+UVFLAG: Total number of records selected: 210; out of 13356 records
+UVFLAG: Antennas used: 1,2,3,4,5,6,7
+UVFLAG: Counts of correlations within selected channels
+UVFLAG: channel   Originally  Currently
+UVFLAG: Good:           4956          0    Changed to bad:       4956
+UVFLAG: Bad:           19824      24780
+GPCOPY: Miriad GpCopy: version 23-Jan-07
+GPCOPY: Executed on: 2013-07-05T18:40:06.0
+GPCOPY: Command line inputs follow:
+GPCOPY:   vis=1934-638.mir
+GPCOPY:   out=J1424-4913.mir
+GPCOPY:   options=nopol
+GPCOPY: Miriad GpCopy: version 23-Jan-07
+GPCOPY: Executed on: 2013-07-05T18:43:13.0
+GPCOPY: Command line inputs follow:
+GPCOPY:   vis=1934-638.mir
+GPCOPY:   out=J1424-4913.mir
+GPCOPY:   options=nopol
+GPCAL: Gpcal: version 1.0 03-May-2010
+GPCAL: Executed on: 2013-07-05T18:43:57.0
+GPCAL: Command line inputs follow:
+GPCAL:   vis=J1424-4913.mir
+GPCAL:   flux=7.91
+GPCAL:   interval=10
+GPCAL:   xyphase=0
+GPCAL:   options=nopol,noxy
+GPCAL: convergence successful
+GPCAL: final solution error:   0.00000 tolerance:  0.00100
+GPCAL: I flux density:    7.910
+GPCAL: XY phases (degrees)
+GPCAL:  Xyphase( 1- 7) =     0.0    0.0   -0.0   -0.0    0.0    0.0   -0.0
+Negated data

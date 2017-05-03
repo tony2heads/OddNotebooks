@@ -1,0 +1,81 @@
+QA,Lindsay,2017-03-21 02:25:12.631 UTC,20170321-0001,MKAIV-232 Baseline Calibration (Delay model calculation),4k,20,26.116,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/21/1490063111.h5
+QA,Tom,2017-03-21 06:00:13.173 UTC,20170320-0006,MKAIV-393 Imaging observation DEEP2,4k,20,87.791,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/21/1490076012.h5
+QA,Audrey,2017-03-21 18:30:10.636 UTC,20170321-0002,MKAIV-449 Three calibrator Imaging,4k,20,73.523,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/21/1490121009.h5
+QA,ssalie,2017-03-22 07:48:36.869 UTC,20170322-0007,ENG SS: ND on Imaging Test 1934-638 -n coupler;2;0.5;0.5 -t 300 -b 300 -g 300 -i 5 -m 600,4k,20, 1.307,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/22/1490168916.h5
+QA,ptuse,2017-03-22 08:06:53.933 UTC,20170322-0002,beamform: halfband test dspsr,4k,01, 0.004,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490169935.h5
+QA,CAM,2017-03-22 08:38:44.099 UTC,20170322-0003,beamform: halfband test dspsr,4k,01, 0.004,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490171899.h5
+QA,CAM,2017-03-22 08:48:52.966 UTC,20170322-0004,beamform: halfband test dspsr,4k,01, 0.004,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490172516.h5
+QA,CAM,2017-03-22 09:03:57.983 UTC,20170322-0005,beamform: halfband test dspsr,4k,01, 0.004,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490173416.h5
+QA,CAM,2017-03-22 09:11:35.544 UTC,20170322-0007,beamform: halfband test dspsr,4k,01, 0.004,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490173879.h5
+QA,ptuse,2017-03-22 09:14:27.971 UTC,20170322-0009,beamform: halfband test dspsr,4k,01, 0.007,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490174054.h5
+QA,ptuse,2017-03-22 09:50:22.791 UTC,20170322-0010,beamform: centre halfband test dspsr,4k,01, 0.006,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490176196.h5
+QA,ptuse,2017-03-22 09:53:23.715 UTC,20170322-0011,beamform: centre halfband test digifits,4k,01, 0.007,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490176385.h5
+QA,ptuse,2017-03-22 09:57:32.110 UTC,20170322-0012,beamform: centre three quarter band test dspsr,4k,01, 0.006,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490176633.h5
+QA,ptuse,2017-03-22 10:01:46.502 UTC,20170322-0013,beamform: full band test dspsr,4k,01, 0.007,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490176888.h5
+QA,ptuse,2017-03-22 10:23:21.454 UTC,20170322-0018,beamform: half band test digifits 4 pol,4k,01, 0.007,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490178179.h5
+QA,ptuse,2017-03-22 10:30:09.246 UTC,20170322-0019,beamform: three quarter band test dspsr long,4k,01, 0.059,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490178590.h5
+QA,CAM,2017-03-22 10:51:10.748 UTC,20170322-0021,beamform: three quarter band test dspsr long,4k,01, 0.059,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490179852.h5
+QA,CAM,2017-03-22 11:12:13.214 UTC,20170322-0020,beamform: three quarter band test dspsr long,4k,01, 0.059,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490181115.h5
+QA,CAM,2017-03-22 11:33:16.679 UTC,20170322-0022,beamform: three quarter band test dspsr long,4k,01, 0.002,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490182378.h5
+QA,ptuse,2017-03-22 12:00:59.673 UTC,20170322-0024,beamform: three quarter band test dspsr,4k,01, 0.006,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490183985.h5
+QA,CAM,2017-03-22 12:10:32.369 UTC,20170322-0026,beamform: three quarter band test dspsr,4k,01, 0.006,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490184616.h5
+QA,CAM,2017-03-22 12:20:46.871 UTC,20170322-0027,beamform: three quarter band test dspsr,4k,01, 0.006,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490185231.h5
+QA,CAM,2017-03-22 12:26:32.935 UTC,20170322-0029,beamform: three quarter band test dspsr,4k,01, 0.006,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490185578.h5
+QA,CAM,2017-03-22 12:29:23.863 UTC,20170322-0028,beamform: three quarter band test dspsr,4k,01, 0.006,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490185751.h5
+QA,ptuse,2017-03-22 13:26:27.914 UTC,20170322-0025,beamform: fullband test dspsr,4k,01, 0.007,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490189166.h5
+QA,CAM,2017-03-22 13:37:06.165 UTC,20170322-0031,beamform: fullband test dspsr,4k,01, 0.007,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490189808.h5
+QA,CAM,2017-03-22 13:41:39.049 UTC,20170322-0030,beamform: three quarter band test dspsr,4k,01, 0.007,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490190083.h5
+QA,CAM,2017-03-22 13:44:58.965 UTC,20170322-0032,beamform: fullband test dspsr,4k,01, 0.007,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490190283.h5
+QA,CAM,2017-03-22 13:54:07.195 UTC,20170322-0033,beamform: fullband test dspsr,4k,01, 0.006,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490190827.h5
+QA,CAM,2017-03-22 13:57:34.107 UTC,20170322-0035,beamform: three quarter band test dspsr,4k,01, 0.006,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/22/1490191037.h5
+QA,KB,2017-03-22 15:48:09.990 UTC,20170322-0010,MKAIV-405 Generic AR1 Phaseup,4k,08, 0.413,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/22/1490197683.h5
+QA,Sharmila,2017-03-22 16:15:10.105 UTC,20170322-0009,Tau A Raster Scan,4k,16, 3.125,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/22/1490199293.h5
+QA,KB,2017-03-22 16:28:04.777 UTC,20170322-0011,Tau A Raster Scan,4k,16, 2.546,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/22/1490200080.h5
+QA,KB,2017-03-22 16:36:53.554 UTC,20170322-0012,Tau A Raster Scan,4k,16, 2.549,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/22/1490200609.h5
+QA,KB,2017-03-22 17:29:03.729 UTC,20170322-0013,Tau A Raster Scan,4k,16, 2.557,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/22/1490203739.h5
+QA,Sharmila,2017-03-22 17:37:56.504 UTC,20170322-0014,AR1: Tau A Raster Scan - 10 scans,4k,16, 5.559,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/22/1490204271.h5
+QA,Sharmila,2017-03-22 17:56:21.037 UTC,20170322-0015,AR1: Tau A Raster Scan - 10 scans,4k,16, 5.607,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/22/1490205376.h5
+QA,Sharmila,2017-03-22 18:16:54.515 UTC,20170322-0016,AR1: Tau A Raster Scan - 10 scans,4k,16, 5.634,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/22/1490206609.h5
+QA,KB,2017-03-22 18:43:10.348 UTC,20170322-0017,AR1: Tau A Raster Scan - 10 scans,4k,16, 5.642,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/22/1490208186.h5
+QA,Lindsay,2017-03-22 19:11:13.136 UTC,20170322-0018,MKAIV-232 Baseline Calibration (Delay model calculation),4k,16,113.532,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/22/1490209868.h5
+QA,ptuse,2017-03-23 07:27:58.944 UTC,20170323-0002,beamform: three quarter band test digifits,4k,01, 0.011,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/23/1490254011.h5
+QA,ptuse,2017-03-23 07:32:35.827 UTC,20170323-0003,beamform: full band test digifits,4k,01, 0.010,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/23/1490254337.h5
+QA,ptuse,2017-03-23 07:36:30.728 UTC,20170323-0004,beamform: half band test digifits 4 pol,4k,01, 0.011,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/23/1490254574.h5
+QA,CAM,2017-03-23 07:42:31.075 UTC,20170323-0006,beamform: three quarter band test digifits 4 pol,4k,01, 0.011,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/23/1490254934.h5
+QA,CAM,2017-03-23 07:46:33.473 UTC,20170323-0007,beamform: half band test digifits 4 pol,4k,01, 0.011,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/23/1490255176.h5
+QA,Lindsay,2017-03-23 08:05:36.360 UTC,20170323-0001,Sgr A Raster Scan,4k,04, 0.219,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/23/1490256333.h5
+QA,CAM,2017-03-23 08:58:18.966 UTC,20170323-0008,beamform: full band test digifits,4k,01, 0.006,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/23/1490259465.h5
+QA,CAM,2017-03-23 10:22:49.781 UTC,20170323-0009,beamform: full band test digifits,4k,01, 0.006,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/23/1490264539.h5
+QA,CAM,2017-03-23 10:29:48.543 UTC,20170323-0010,beamform: full band test digifits,4k,01, 0.007,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/23/1490264969.h5
+QA,CAM,2017-03-23 10:54:43.638 UTC,20170323-0011,beamform: three quarter band test digifits 4 pol,4k,01, 0.007,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/23/1490266464.h5
+QA,CAM,2017-03-23 11:00:29.514 UTC,20170323-0012,beamform: three quarter band test digifits 4 pol,4k,01, 0.007,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/23/1490266814.h5
+QA,ptuse,2017-03-23 12:03:22.340 UTC,20170323-0015,beamform: three quarter band test digifits 4 pol,4k,01, 0.006,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/23/1490270528.h5
+QA,CAM,2017-03-23 12:32:02.199 UTC,20170323-0016,beamform: three quarter band test digifits 4 pol,4k,01, 0.006,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/23/1490272300.h5
+QA,Lindsay,2017-03-23 12:59:26.010 UTC,20170323-0003,MKAIV-308 Basic health,4k,16, 7.881,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/23/1490273959.h5
+QA,CAM,2017-03-23 13:01:23.590 UTC,20170323-0017,beamform: three quarter band test digifits 4 pol,4k,01, 0.006,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/03/23/1490274061.h5
+QA,Lindsay,2017-03-23 14:14:47.711 UTC,20170323-0006,MKAIV-232 Baseline Calibration (Delay model calculation),4k,19, 1.758,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/23/1490278484.h5
+QA,Lindsay,2017-03-23 14:34:41.644 UTC,20170323-0007,MKAIV-232 Baseline Calibration (Delay model calculation),4k,19, 0.586,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/23/1490279678.h5
+QA,Lindsay,2017-03-23 14:52:04.255 UTC,20170323-0009,MKAIV-232 Baseline Calibration (Delay model calculation),4k,26,72.928,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/23/1490280720.h5
+QA,Lindsay,2017-03-23 23:26:24.308 UTC,20170323-0010,MKAIV-232 Baseline Calibration (Delay model calculation),4k,16,112.780,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/23/1490311581.h5
+QA,Buntu,2017-03-24 05:54:07.447 UTC,20170324-0001,MKAIV-308 Basic health,4k,16, 1.478,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/24/1490334844.h5
+QA,Buntu,2017-03-24 06:00:53.775 UTC,20170324-0002,MKAIV-308 Basic health,4k,16, 1.126,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/24/1490335253.h5
+QA,Lindsay,2017-03-24 09:30:41.239 UTC,20170324-0004,MKAIV-405 Generic AR1 Phaseup,4k,25, 1.138,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/24/1490347838.h5
+QA,Buntu,2017-03-24 09:40:00.503 UTC,20170324-0005,MKAIV-405 Generic AR1 Phaseup,4k,25, 0.898,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/24/1490348399.h5
+QA,Buntu,2017-03-24 09:49:43.256 UTC,20170324-0006,MKAIV-232 Baseline Calibration (Delay model calculation),4k,25, 1.318,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/24/1490348982.h5
+QA,Buntu,2017-03-24 10:53:47.200 UTC,20170324-0009,MKAIV-232 Baseline Calibration (Delay model calculation),4k,25,11.798,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/24/1490352824.h5
+QA,Lindsay,2017-03-24 15:01:15.213 UTC,20170326-0002,MKAIV-449 Three calibrator Imaging,4k,27, 2.926,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/24/1490509505.h5
+QA,Lindsay,2017-03-24 16:28:24.893 UTC,20170324-0014,MKAIV-232 Baseline Calibration (Delay model calculation),4k,27,79.171,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/24/1490372901.h5
+QA,Lindsay,2017-03-24 22:36:11.499 UTC,20170324-0015,MKAIV-232 Baseline Calibration (Delay model calculation),4k,27,48.873,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/24/1490394969.h5
+QA,Lindsay,2017-03-25 02:23:03.740 UTC,20170325-0001,MKAIV-232 Baseline Calibration (Delay model calculation),4k,27,38.748,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/25/1490408582.h5
+QA,Tom,2017-03-25 06:00:12.828 UTC,20170324-0011,MKAIV-393 Imaging observation DEEP2,4k,27,153.846,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/25/1490421610.h5
+QA,Ruby,2017-03-25 18:00:11.053 UTC,20170325-0002,MKAIV-111 AR1 pointing,4k,27,79.663,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/25/1490464810.h5
+QA,Tom,2017-03-26 11:49:12.086 UTC,20170326-0005,MKAIV-393 Imaging observation DEEP2,4k,27,78.850,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/26/1490528949.h5
+QA,Lindsay,2017-03-26 18:00:10.670 UTC,20170326-0007,MKAIV-232 Baseline Calibration (Delay model calculation),4k,27,78.710,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/26/1490551209.h5
+QA,Lindsay,2017-03-27 00:10:14.006 UTC,20170326-0008,MKAIV-232 Baseline Calibration (Delay model calculation),4k,27,78.881,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/27/1490573411.h5
+QA,Buntu,2017-03-27 07:00:00.984 UTC,20170327-0001,MKAIV-308 Basic health,4k,16, 6.933,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/27/1490597997.h5
+QA,Lindsay,2017-03-27 07:52:10.357 UTC,20170327-0003,MKAIV-405 Generic AR1 Phaseup,32k,16,14.780,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/27/1490601128.h5
+QA,Lindsay,2017-03-27 10:06:22.587 UTC,20170327-0004,Hotload and Coldload observation:MKAIV-209 Tsys and Tnd,4k,27, 7.155,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/27/1490609179.h5
+QA,Lindsay,2017-03-27 16:26:49.076 UTC,20170327-0006,MKAIV-232 Baseline Calibration (Delay model calculation),4k,28, 3.118,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/27/1490632005.h5
+QA,KB,2017-03-27 16:58:38.588 UTC,20170327-0007,MKAIV-232 Baseline Calibration (Delay model calculation),4k,28,84.232,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/27/1490633916.h5
+QA,Lindsay,2017-03-27 23:15:14.028 UTC,20170327-0009,MKAIV-232 Baseline Calibration (Delay model calculation),4k,28,84.441,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/27/1490656511.h5
+QA,Lindsay,2017-03-28 06:46:26.217 UTC,20170328-0002,MKAIV-232 Baseline Calibration (Delay model calculation),4k,07, 3.637,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/03/28/1490683583.h5
