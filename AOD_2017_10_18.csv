@@ -1,0 +1,228 @@
+QA,test,2017-10-18 07:50:45.875 UTC,20171018-0001,MKAIV-111 AR1 pointing,4k,16, 1.961,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/18/1508313043.h5
+QA,Tom,2017-10-18 12:24:44.086 UTC,20171018-0008,MKAIV-347 Imaging observation SCP,32k,16, 6.866,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/18/1508329484.h5
+QA,Tom,2017-10-18 12:39:55.700 UTC,20171018-0009,MKAIV-347 Imaging observation SCP,32k,16,11.802,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/18/1508330395.h5
+QA,Lindsay,2017-10-18 15:17:59.610 UTC,20171018-0013,MKAIV-584 Generic AR1 delaycal,32k,16,10.013,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/18/1508339868.h5
+QA,Lindsay,2017-10-18 16:09:06.467 UTC,20171018-0024,MKAIV-584 Generic AR1 delaycal,4k,16, 0.716,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/18/1508342941.h5
+QA,Lindsay,2017-10-18 16:14:15.836 UTC,20171018-0020,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.613,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/18/1508343255.h5
+QA,Maciej,2017-10-18 16:19:31.202 UTC,20171018-0021,COMM-185 CBF J1622-4950,4k,16, 1.640,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/18/1508343526.h5
+QA,CAM,2017-10-18 16:25:02.193 UTC,20171018-0002,MKAIV-405 Generic AR1 Phaseup,4k,01, 0.009,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/10/18/1508343902.h5
+QA,Lindsay,2017-10-18 16:26:31.052 UTC,20171018-0026,MKAIV-584 Generic AR1 delaycal,4k,03, 0.243,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/18/1508343988.h5
+QA,Lindsay,2017-10-18 16:30:27.924 UTC,20171018-0022,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.722,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/18/1508344227.h5
+QA,Fernando,2017-10-18 16:36:14.278 UTC,20171018-0023,COMM-AR1 PSR B1259-64,4k,16, 4.795,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/18/1508344521.h5
+QA,Ruby,2017-10-18 17:00:24.691 UTC,20171018-0014,MKAIV-111 AR1 pointing,4k,03,41.562,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/18/1508346023.h5
+QA,Lindsay,2017-10-18 17:07:13.991 UTC,20171018-0025,MKAIV-216 Phase-down,4k,16, 0.347,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/18/1508346433.h5
+QA,Lindsay,2017-10-18 17:30:24.903 UTC,20171018-0012,MKAIV-232 Baseline Calibration (Delay model calculation),4k,16,112.973,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/18/1508347823.h5
+QA,Lindsay,2017-10-19 06:56:36.477 UTC,20171019-0002,MKAIV-308 Basic health,4k,16, 2.871,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508396193.h5
+QA,Lindsay,2017-10-19 07:34:14.420 UTC,20171019-0004,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.793,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508398452.h5
+QA,Lindsay,2017-10-19 07:49:04.114 UTC,20171019-0005,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.636,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508399348.h5
+QA,Lindsay,2017-10-19 08:04:05.509 UTC,20171019-0007,MKAIV-405 Generic AR1 Phaseup,4k,16, 4.692,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508400242.h5
+QA,Lindsay,2017-10-19 08:23:36.903 UTC,20171019-0008,MKAIV-405 Generic AR1 Phaseup,4k,16, 2.871,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508401413.h5
+QA,Lindsay,2017-10-19 08:28:04.790 UTC,20171019-0009,MKAIV-405 Generic AR1 Phaseup,4k,16, 2.797,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508401684.h5
+QA,Lindsay,2017-10-19 08:32:25.680 UTC,20171019-0010,MKAIV-405 Generic AR1 Phaseup,4k,16, 2.823,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508401945.h5
+QA,Lindsay,2017-10-19 09:32:29.117 UTC,20171019-0011,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.610,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508405551.h5
+QA,Lindsay,2017-10-19 09:46:05.126 UTC,20171019-0012,MKAIV-405 Generic AR1 Phaseup,4k,16, 5.324,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508406362.h5
+QA,Lindsay,2017-10-19 09:56:42.856 UTC,20171019-0014,MKAIV-405 Generic AR1 Phaseup,4k,16, 4.877,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508407002.h5
+QA,Maciej Serylak,2017-10-19 10:04:56.647 UTC,20171019-0006,SKARAB tests - Vela - SKARAB test observation 1 sec dump,4k,16, 4.079,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508407496.h5
+QA,Lindsay,2017-10-19 10:30:29.999 UTC,20171019-0015,MKAIV-308 Basic health,4k,16, 4.233,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508409029.h5
+QA,Lindsay,2017-10-19 10:40:05.755 UTC,20171019-0016,MKAIV-308 Basic health,4k,16, 4.475,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508409605.h5
+QA,Lindsay,2017-10-19 10:51:09.474 UTC,20171019-0019,MKAIV-308 Basic health,4k,16, 5.402,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508410269.h5
+QA,Lindsay,2017-10-19 11:01:38.208 UTC,20171019-0013,MKAIV-405 Generic AR1 Phaseup,4k,16, 5.383,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508410897.h5
+QA,Lindsay,2017-10-19 11:16:26.551 UTC,20171019-0017,MKAIV-405 Generic AR1 Phaseup,4k,16, 5.221,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508411779.h5
+QA,Lindsay,2017-10-19 11:22:31.396 UTC,20171019-0020,MKAIV-308 Basic health,4k,16,36.901,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508412151.h5
+QA,Lindsay,2017-10-19 11:58:16.489 UTC,20171019-0021,MKAIV-405 Generic AR1 Phaseup,4k,16, 4.954,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508414295.h5
+QA,Maciej,2017-10-19 12:18:03.986 UTC,20171019-0024,COMM bec-856M4k ROACH2 test J1644-4559,4k,16, 2.548,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508415440.h5
+QA,Maciej Serylak,2017-10-19 13:29:51.423 UTC,20171019-0027,SKARAB/ROACH2 tests: Phaseup: no delays,4k,04, 0.048,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508419791.h5
+QA,Observer,2017-10-19 13:32:15.309 UTC,20171019-0025,test,4k,11, 0.161,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508419937.h5
+QA,Observer,2017-10-19 13:37:59.164 UTC,20171019-0028,test,4k,11, 0.459,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508420283.h5
+QA,Maciej Serylak,2017-10-19 13:49:42.919 UTC,20171019-0029,SKARAB tests - J1644-4559 - SKARAB capture partition 10,4k,04, 0.112,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508420988.h5
+QA,Observer,2017-10-19 13:55:18.724 UTC,20171019-0030,test,4k,11, 0.367,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508421321.h5
+QA,Observer,2017-10-19 14:02:06.551 UTC,20171019-0032,test,4k,11, 0.393,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508421732.h5
+QA,Observer,2017-10-19 14:08:30.389 UTC,20171019-0033,test,4k,11, 0.417,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508422110.h5
+QA,Bruce,2017-10-19 14:16:38.235 UTC,20171019-0001,MKAIV-347 Imaging observation SCP,4k,04, 0.044,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508422602.h5
+QA,Maciej Serylak,2017-10-19 14:25:09.791 UTC,20171019-0034,SKARAB/ROACH2 tests: PKS 1934-63,4k,04, 0.063,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508423111.h5
+QA,Observer,2017-10-19 14:26:29.932 UTC,20171019-0035,test,4k,11, 0.356,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508423196.h5
+QA,Observer,2017-10-19 14:36:21.682 UTC,20171019-0036,test,4k,11, 0.405,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508423782.h5
+QA,Maciej Serylak,2017-10-19 14:37:57.466 UTC,20171019-0040,SKARAB/ROACH2 tests: PKS 1934-63,4k,04, 0.062,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508423876.h5
+QA,Maciej Serylak,2017-10-19 14:43:33.324 UTC,20171019-0037,SKARAB/ROACH2 tests: PKS 1934-63,4k,04, 0.064,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508424219.h5
+QA,Maciej Serylak,2017-10-19 14:49:09.182 UTC,20171019-0038,SKARAB/ROACH2 tests: PKS 1934-63,4k,04, 0.065,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508424555.h5
+QA,Lindsay,2017-10-19 15:20:44.450 UTC,20171019-0041,MKAIV-584 Generic AR1 delaycal,4k,16, 1.053,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508426446.h5
+QA,Lindsay,2017-10-19 15:30:52.193 UTC,20171019-0042,MKAIV-584 Generic AR1 delaycal,4k,16, 0.645,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508427052.h5
+QA,Lindsay,2017-10-19 15:38:12.007 UTC,20171019-0043,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.624,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508427491.h5
+QA,Lindsay,2017-10-19 15:42:35.895 UTC,20171019-0045,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.665,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508427758.h5
+QA,Lindsay,2017-10-19 16:20:50.847 UTC,20171019-0049,MKAIV-584 Generic AR1 delaycal,4k,16, 0.637,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508430049.h5
+QA,Lindsay,2017-10-19 16:25:30.729 UTC,20171019-0050,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.616,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508430332.h5
+QA,Lindsay,2017-10-19 16:56:02.133 UTC,20171019-0055,MKAIV-308 Basic health,4k,16, 4.895,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508432164.h5
+QA,Lindsay,2017-10-19 17:13:56.567 UTC,20171019-0057,MKAIV-584 Generic AR1 delaycal,4k,04, 0.432,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508433233.h5
+QA,Ruby,2017-10-19 17:21:17.380 UTC,20171019-0048,MKAIV-111 AR1 pointing,4k,04,10.895,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508433677.h5
+QA,Lindsay,2017-10-19 17:27:29.334 UTC,20171019-0056,MKAIV-216 Phase-down,4k,16, 0.353,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508434052.h5
+QA,Lindsay,2017-10-19 17:29:53.274 UTC,20171019-0058,MKAIV-232 Baseline Calibration (Delay model calculation),4k,16,17.023,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508434194.h5
+QA,Ruby,2017-10-19 19:52:14.802 UTC,20171019-0059,MKAIV-111 AR1 pointing,4k,04, 0.194,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508442731.h5
+QA,Ruby,2017-10-19 20:02:56.146 UTC,20171019-0060,MKAIV-111 AR1 pointing,4k,04, 0.398,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508443373.h5
+QA,Ruby,2017-10-19 20:15:11.045 UTC,20171019-0061,MKAIV-111 AR1 pointing,4k,04,56.072,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/19/1508444108.h5
+QA,Lindsay,2017-10-20 04:49:04.088 UTC,20171020-0001,MKAIV-232 Baseline Calibration (Delay model calculation),4k,16,28.571,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/20/1508474947.h5
+QA,Tony,2017-10-20 09:51:16.440 UTC,20171020-0009,MKAIV-111 AR1 pointing,4k,16,13.730,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/20/1508493070.h5
+QA,Tony,2017-10-20 10:12:14.036 UTC,20171020-0010,MKAIV-111 AR1 pointing,4k,16,300.336,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/20/1508494320.h5
+QA,Maciej Serylak,2017-10-20 13:48:34.228 UTC,20171020-0017,SKARAB/ROACH2 tests: Phaseup: no delays,4k,04, 0.046,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/20/1508507315.h5
+QA,Lindsay,2017-10-20 14:19:45.333 UTC,20171020-0019,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.834,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/20/1508509187.h5
+QA,Lindsay,2017-10-20 14:26:09.171 UTC,20171020-0020,MKAIV-584 Generic AR1 delaycal,4k,16, 0.640,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/20/1508509562.h5
+QA,Lindsay,2017-10-20 14:36:49.314 UTC,20171020-0030,MKAIV-308 Basic health,4k,04, 0.075,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/20/1508510211.h5
+QA,Lindsay,2017-10-20 15:06:56.334 UTC,20171020-0032,MKAIV-584 Generic AR1 delaycal,4k,16, 0.656,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/20/1508512017.h5
+QA,Lindsay,2017-10-20 15:11:44.212 UTC,20171020-0033,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.613,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/20/1508512309.h5
+QA,sarah,2017-10-20 15:19:44.009 UTC,20171020-0034,MKAIV-388 CBF J1644-4559,4k,16, 0.854,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/20/1508512735.h5
+QA,Lindsay,2017-10-20 16:38:05.908 UTC,20171020-0038,MKAIV-584 Generic AR1 delaycal,4k,16, 0.740,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/20/1508517480.h5
+QA,Lindsay,2017-10-20 16:49:57.561 UTC,20171020-0039,MKAIV-584 Generic AR1 delaycal,4k,16, 0.677,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/20/1508518197.h5
+QA,Lindsay,2017-10-20 16:54:53.436 UTC,20171020-0021,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.614,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/20/1508518499.h5
+QA,Maciej,2017-10-20 17:00:05.304 UTC,20171020-0035,COMM-185 CBF J1622-4950,4k,16, 1.620,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/20/1508518767.h5
+QA,Lindsay,2017-10-20 17:10:53.030 UTC,20171020-0036,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.700,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/20/1508519456.h5
+QA,Fernando,2017-10-20 17:16:36.885 UTC,20171020-0037,COMM-AR1 PSR B1259-64,4k,16, 0.080,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/20/1508519740.h5
+QA,Lindsay,2017-10-20 17:17:24.864 UTC,20171020-0025,MKAIV-232 Baseline Calibration (Delay model calculation),4k,16, 1.081,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/20/1508519848.h5
+QA,Lindsay,2017-10-20 17:33:48.665 UTC,20171020-0044,MKAIV-232 Baseline Calibration (Delay model calculation),4k,16,93.840,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/20/1508520826.h5
+QA,Lindsay,2017-10-20 17:50:12.103 UTC,20171020-0045,MKAIV-584 Generic AR1 delaycal,4k,04, 0.051,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/20/1508521809.h5
+QA,Lindsay,2017-10-20 18:04:02.954 UTC,20171020-0048,MKAIV-584 Generic AR1 delaycal,4k,04, 0.140,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/20/1508522639.h5
+QA,Ruby,2017-10-20 18:09:01.819 UTC,20171020-0047,MKAIV-111 AR1 pointing,4k,04,57.426,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/20/1508522939.h5
+QA,AR1,2017-10-21 03:46:02.822 UTC,20171020-0042,AR1:   MKAIV-215 OPEN  Phase-up 0408,4k,16, 1.997,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508557561.h5
+QA,Nadeem,2017-10-21 04:00:24.457 UTC,20171020-0043,20170824FC-01 NGC4993 16 antenna long baselines,4k,16,12.302,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508558424.h5
+QA,AR1,2017-10-21 04:32:05.577 UTC,20171021-0001,AR1:   MKAIV-215 OPEN  Phase-up 0408,4k,16, 2.205,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508560324.h5
+QA,Nadeem,2017-10-21 04:42:45.306 UTC,20171021-0002,20170824FC-01 NGC4993 16 antenna long baselines,4k,16,46.458,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508560965.h5
+QA,AR1,2017-10-21 05:57:39.405 UTC,20171020-0040,AR1:   MKAIV-215 OPEN  Phase-up 0408,4k,16, 2.354,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508565458.h5
+QA,Nadeem,2017-10-21 06:01:51.298 UTC,20171020-0041,20170824FC-01 NGC4993 16 antenna long baselines,4k,16,346.289,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508565710.h5
+QA,Lindsay,2017-10-21 11:15:05.358 UTC,20171021-0003,MKAIV-584 Generic AR1 delaycal,4k,04, 0.052,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508584504.h5
+QA,Lindsay,2017-10-21 11:22:49.162 UTC,20171021-0004,MKAIV-202 Interferometric Pointing Calibration,4k,04, 0.234,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508584972.h5
+QA,Lindsay,2017-10-21 11:47:10.881 UTC,20171021-0019,MKAIV-584 Generic AR1 delaycal,4k,04, 0.551,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508586428.h5
+QA,Lindsay,2017-10-21 11:54:18.700 UTC,20171021-0020,MKAIV-202 Interferometric Pointing Calibration,4k,04,19.922,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508586857.h5
+QA,Lindsay,2017-10-21 15:36:58.166 UTC,20171021-0018,MKAIV-584 Generic AR1 delaycal,4k,16, 0.760,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508600214.h5
+QA,Lindsay,2017-10-21 15:42:26.027 UTC,20171021-0005,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.614,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508600547.h5
+QA,Maciej,2017-10-21 15:47:37.895 UTC,20171021-0006,COMM-185 CBF J1622-4950,4k,16, 1.626,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508600817.h5
+QA,Lindsay,2017-10-21 15:58:33.618 UTC,20171021-0007,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.710,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508601518.h5
+QA,Fernando,2017-10-21 16:04:17.472 UTC,20171021-0008,COMM-AR1 PSR B1259-64,4k,16, 4.795,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508601812.h5
+QA,Lindsay,2017-10-21 16:35:12.687 UTC,20171021-0009,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.778,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508603719.h5
+QA,sarah,2017-10-21 16:56:00.160 UTC,20171021-0011,MKAIV-388 CBF J1909-3744,4k,16, 1.693,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508604917.h5
+QA,Lindsay,2017-10-21 17:06:55.882 UTC,20171021-0012,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.777,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508605618.h5
+QA,sarah,2017-10-21 17:15:59.652 UTC,20171021-0013,MKAIV-388  CBF J1559-4438,4k,16, 1.722,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508606121.h5
+QA,sarah,2017-10-21 17:27:19.365 UTC,20171021-0014,MKAIV-388 CBF J1644-4559,4k,16, 1.705,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508606812.h5
+QA,Lindsay,2017-10-21 17:40:23.033 UTC,20171021-0015,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.541,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508607624.h5
+QA,sarah,2017-10-21 17:51:02.762 UTC,20171021-0016,MKAIV-388 CBF J1909-3744,4k,16, 1.737,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508608219.h5
+QA,sarah,2017-10-21 18:07:50.336 UTC,20171021-0017,MKAIV-388 CBF J1939 2134,4k,16, 1.737,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508609118.h5
+QA,Lindsay,2017-10-21 18:30:21.764 UTC,20171021-0021,MKAIV-449 Three calibrator Imaging,4k,16,65.879,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508610626.h5
+QA,Lindsay,2017-10-21 19:45:34.800 UTC,20171021-0032,MKAIV-584 Generic AR1 delaycal,4k,04, 0.458,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508615131.h5
+QA,Lindsay,2017-10-21 19:54:03.504 UTC,20171021-0034,MKAIV-584 Generic AR1 delaycal,4k,04, 0.050,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508615647.h5
+QA,Tony,2017-10-21 20:00:19.345 UTC,20171021-0033,MKAIV-295D AR1 Imaging Calibrator LST 18-24,4k,04, 4.326,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/21/1508616019.h5
+QA,Lindsay,2017-10-22 01:31:15.081 UTC,20171021-0022,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.633,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508635880.h5
+QA,sarah,2017-10-22 01:34:50.989 UTC,20171021-0023,MKAIV-387: CBF J0437-4715,4k,16, 1.891,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508636057.h5
+QA,sarah,2017-10-22 01:46:58.682 UTC,20171021-0024,MKAIV-387 CBF J0738-4042,4k,16, 1.880,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508636756.h5
+QA,Lindsay,2017-10-22 01:57:54.404 UTC,20171021-0025,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.756,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508637476.h5
+QA,sarah,2017-10-22 02:02:42.282 UTC,20171021-0026,MKAIV-387 CBF J0742-2822,4k,16, 1.905,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508637695.h5
+QA,sarah,2017-10-22 02:14:17.988 UTC,20171021-0027,MKAIV-387 CBF J0835-4510,4k,16, 1.899,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508638425.h5
+QA,Lindsay,2017-10-22 02:25:21.707 UTC,20171021-0028,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.765,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508639126.h5
+QA,sarah,2017-10-22 02:29:37.599 UTC,20171021-0029,MKAIV-387 CBF J0437-4715,4k,16, 1.914,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508639345.h5
+QA,sarah,2017-10-22 02:42:17.278 UTC,20171021-0030,MKAIV-387 CBF J0953 0755,4k,16, 1.887,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508640038.h5
+QA,AR1,2017-10-22 03:57:21.144 UTC,20171022-0001,AR1:   MKAIV-215 OPEN  Phase-up 0408,4k,16, 0.235,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508644638.h5
+QA,Lindsay,2017-10-22 03:59:07.099 UTC,20171022-0002,MKAIV-584 Generic AR1 delaycal,4k,16, 3.047,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508644744.h5
+QA,AR1,2017-10-22 04:04:28.963 UTC,20171022-0003,AR1:   MKAIV-215 OPEN  Phase-up 0408,4k,16, 1.631,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508645069.h5
+QA,Nadeem,2017-10-22 04:07:38.883 UTC,20171022-0004,20170824FC-01 NGC4993 16 antenna long baselines,4k,16,413.429,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508645257.h5
+QA,Lindsay,2017-10-22 04:18:30.763 UTC,20171022-0006,MKAIV-584 Generic AR1 delaycal,4k,04, 0.064,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508645912.h5
+QA,Tony,2017-10-22 04:24:14.617 UTC,20171022-0005,MKAIV-295B AR1 Imaging Calibrator LST 06-12,4k,04, 3.536,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508646260.h5
+QA,Tony,2017-10-22 10:00:14.089 UTC,20171022-0007,MKAIV-386C AR1 Bandpass Calibrators LST 12-18,4k,04, 3.664,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508666416.h5
+QA,Lindsay,2017-10-22 15:27:35.837 UTC,20171022-0008,MKAIV-584 Generic AR1 delaycal,4k,16, 0.781,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508686053.h5
+QA,Lindsay,2017-10-22 15:33:19.692 UTC,20171022-0009,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.614,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508686403.h5
+QA,Maciej,2017-10-22 15:41:19.489 UTC,20171022-0010,COMM-185 CBF J1622-4950,4k,16, 1.621,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508686832.h5
+QA,Lindsay,2017-10-22 15:52:07.215 UTC,20171022-0011,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.711,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508687531.h5
+QA,Lindsay,2017-10-22 16:00:22.979 UTC,20171022-0018,MKAIV-584 Generic AR1 delaycal,4k,04, 0.061,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508688020.h5
+QA,Fernando,2017-10-22 16:01:10.985 UTC,20171022-0012,COMM-AR1 PSR B1259-64,4k,16, 4.790,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508688023.h5
+QA,Tony,2017-10-22 16:07:10.807 UTC,20171022-0019,MKAIV-386D AR1 Bandpass Calibrators LST 18-24,4k,04, 4.349,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508688434.h5
+QA,AR1,2017-10-22 17:50:20.409 UTC,20171022-0013,AR1: MKAIV-382 Phase-up 1934 32K,32k,16, 7.545,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508694623.h5
+QA,Tony,2017-10-22 18:00:20.155 UTC,20171022-0014,Image faint; extended HI (IC 5264),32k,16,545.861,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/22/1508695222.h5
+QA,Lindsay,2017-10-23 02:40:22.804 UTC,20171022-0016,MKAIV-308 Basic health,4k,16, 4.769,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508726424.h5
+QA,Lindsay,2017-10-23 03:00:14.230 UTC,20171022-0017,MKAIV-308 Basic health,4k,04, 0.421,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508727617.h5
+QA,Tony,2017-10-23 06:25:46.206 UTC,20171023-0001,MKAIV-111 AR1 pointing,4k,15,399.566,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508739944.h5
+QA,Maciej Serylak,2017-10-23 08:08:54.547 UTC,20171023-0002,SKARAB/ROACH2 tests: Phaseup: no delays,4k,04, 0.064,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508746135.h5
+QA,Maciej Serylak,2017-10-23 08:25:58.114 UTC,20171023-0006,SKARAB/ROACH2 tests: Vela - SKARAB Capture,4k,04, 0.065,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508747075.h5
+QA,Maciej Serylak,2017-10-23 08:32:13.955 UTC,20171023-0003,SKARAB/ROACH2 tests: Phaseup: no delays,4k,04, 0.065,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508747540.h5
+QA,Maciej Serylak,2017-10-23 08:38:45.789 UTC,20171023-0007,SKARAB/ROACH2 tests: Vela - SKARAB Capture,4k,04, 0.072,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508747850.h5
+QA,bmerry,2017-10-23 09:06:11.070 UTC,20171004-0005,Test beamformer capture,4k,01, 0.006,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/10/23/1508749530.h5
+QA,bmerry,2017-10-23 09:24:42.450 UTC,20171023-0001,Test beamformer capture,4k,01, 0.006,/var/kat/archive/data/MeerKATAR1/telescope_products/2017/10/23/1508750674.h5
+QA,Maciej Serylak,2017-10-23 09:27:50.323 UTC,20171023-0008,SKARAB/ROACH2 tests: Phaseup: no delays,4k,04, 0.433,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508750867.h5
+QA,Observer,2017-10-23 09:33:16.185 UTC,20171023-0009,SKARAB tests - Vela - SKARAB capture partition 8,4k,04, 0.312,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508751196.h5
+QA,Observer,2017-10-23 09:37:22.081 UTC,20171023-0010,SKARAB tests - Vela - SKARAB capture partition 9,4k,04, 0.210,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508751441.h5
+QA,Observer,2017-10-23 09:40:17.007 UTC,20171023-0011,SKARAB tests - Vela - SKARAB capture partition 10,4k,04, 0.209,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508751616.h5
+QA,Maciej Serylak,2017-10-23 09:49:19.777 UTC,20171023-0012,SKARAB/ROACH2 tests: Vela - SKARAB Capture,4k,01, 0.477,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508752146.h5
+QA,Maciej Serylak,2017-10-23 09:55:38.617 UTC,20171023-0013,SKARAB/ROACH2 tests: Vela - SKARAB Capture,4k,01, 0.096,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508752528.h5
+QA,Maciej Serylak,2017-10-23 09:57:33.568 UTC,20171023-0014,SKARAB/ROACH2 tests: Vela - SKARAB Capture,4k,01, 0.478,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508752644.h5
+QA,Maciej Serylak,2017-10-23 10:19:17.017 UTC,20171023-0015,SKARAB/ROACH2 tests: Vela - SKARAB Capture,4k,01, 0.480,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508753942.h5
+QA,Maciej Serylak,2017-10-23 10:26:25.835 UTC,20171023-0016,SKARAB/ROACH2 tests: Vela - SKARAB Capture,4k,01, 0.478,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508754373.h5
+QA,Maciej Serylak,2017-10-23 10:59:37.907 UTC,20171023-0017,SKARAB/ROACH2 tests: Phaseup: no delays,4k,04, 0.074,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508756380.h5
+QA,Maciej Serylak,2017-10-23 11:06:33.731 UTC,20171023-0019,SKARAB/ROACH2 tests: PKS 1934-63 - SKARAB Capture,4k,01, 0.065,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508756786.h5
+QA,Maciej Serylak,2017-10-23 11:18:49.420 UTC,20171023-0021,SKARAB/ROACH2 tests: Phaseup: no delays,4k,04, 0.053,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508757535.h5
+QA,Observer,2017-10-23 11:22:57.315 UTC,20171023-0022,PKS 1934-63 - SKARAB Capture,4k,04, 0.203,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508757782.h5
+QA,Lindsay,2017-10-23 12:14:16.180 UTC,20171023-0023,MKAIV-584 Generic AR1 delaycal,4k,04, 0.050,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508760855.h5
+QA,Lindsay,2017-10-23 13:26:14.335 UTC,20171023-0024,MKAIV-584 Generic AR1 delaycal,4k,03, 0.011,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508765178.h5
+QA,Lindsay,2017-10-23 13:32:22.218 UTC,20171023-0025,MKAIV-584 Generic AR1 delaycal,4k,04, 0.016,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508765546.h5
+QA,Lindsay,2017-10-23 14:11:22.667 UTC,20171023-0026,MKAIV-584 Generic AR1 delaycal,4k,16, 0.677,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508767884.h5
+QA,Lindsay,2017-10-23 14:22:58.373 UTC,20171023-0027,MKAIV-584 Generic AR1 delaycal,4k,16, 0.645,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508768579.h5
+QA,Lindsay,2017-10-23 14:30:10.190 UTC,20171023-0028,MKAIV-584 Generic AR1 delaycal,4k,16, 0.459,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508769011.h5
+QA,Lindsay,2017-10-23 14:42:49.869 UTC,20171023-0029,MKAIV-584 Generic AR1 delaycal,4k,16, 0.461,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508769771.h5
+QA,Lindsay,2017-10-23 14:49:37.696 UTC,20171023-0030,MKAIV-584 Generic AR1 delaycal,4k,16, 0.462,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508770181.h5
+QA,Lindsay,2017-10-23 15:24:01.163 UTC,20171023-0031,MKAIV-584 Generic AR1 delaycal,4k,16, 0.677,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508772242.h5
+QA,Lindsay,2017-10-23 15:32:32.946 UTC,20171023-0032,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.614,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508772754.h5
+QA,sarah,2017-10-23 15:38:08.804 UTC,20171023-0033,MKAIV-388 CBF J1644-4559,4k,16, 0.870,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508773048.h5
+QA,Lindsay,2017-10-23 15:48:08.550 UTC,20171023-0036,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.715,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508773690.h5
+QA,Maciej,2017-10-23 15:53:44.408 UTC,20171023-0037,COMM-185 CBF J1622-4950,4k,16, 2.436,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508773981.h5
+QA,Lindsay,2017-10-23 16:24:47.321 UTC,20171023-0056,MKAIV-308 Basic health,4k,03, 0.020,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508775886.h5
+QA,Lindsay,2017-10-23 16:26:23.579 UTC,20171023-0057,MKAIV-308 Basic health,4k,16, 4.804,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508775986.h5
+QA,Lindsay,2017-10-23 16:27:51.243 UTC,20171023-0054,MKAIV-202 Interferometric Pointing Calibration,4k,03, 1.589,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508776070.h5
+QA,Lindsay,2017-10-23 17:15:18.338 UTC,20171023-0039,MKAIV-216 Phase-down,4k,16, 0.425,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508778924.h5
+QA,Lindsay,2017-10-23 17:30:21.955 UTC,20171023-0038,MKAIV-232 Baseline Calibration (Delay model calculation),4k,16,75.544,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/23/1508779821.h5
+QA,sarah,2017-10-24 01:32:25.719 UTC,20171023-0061,MKAIV-387 CBF J0835-4510,4k,16, 2.133,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508808704.h5
+QA,Lindsay,2017-10-24 01:55:29.134 UTC,20171023-0040,MKAIV-584 Generic AR1 delaycal,4k,16, 1.257,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508810126.h5
+QA,Lindsay,2017-10-24 02:00:48.998 UTC,20171023-0041,MKAIV-405 Generic AR1 Phaseup,4k,16, 1.131,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508810451.h5
+QA,sarah,2017-10-24 02:10:56.741 UTC,20171023-0042,MKAIV-387: CBF J0437-4715,4k,16, 2.165,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508811022.h5
+QA,sarah,2017-10-24 02:26:24.349 UTC,20171023-0043,MKAIV-387 CBF J0738-4042,4k,16, 2.164,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508811923.h5
+QA,Lindsay,2017-10-24 02:40:23.994 UTC,20171023-0044,MKAIV-405 Generic AR1 Phaseup,4k,16, 1.265,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508812826.h5
+QA,sarah,2017-10-24 02:51:35.709 UTC,20171023-0045,MKAIV-387 CBF J0742-2822,4k,16, 2.195,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508813423.h5
+QA,sarah,2017-10-24 03:05:59.344 UTC,20171023-0046,MKAIV-387 CBF J0835-4510,4k,16, 2.199,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508814321.h5
+QA,Lindsay,2017-10-24 03:20:22.979 UTC,20171023-0047,MKAIV-405 Generic AR1 Phaseup,4k,16, 1.295,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508815223.h5
+QA,sarah,2017-10-24 03:30:46.715 UTC,20171023-0048,MKAIV-387 CBF J0437-4715,4k,16, 2.225,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508815820.h5
+QA,sarah,2017-10-24 03:47:02.302 UTC,20171023-0049,MKAIV-387 CBF J0953 0755,4k,16, 2.230,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508816722.h5
+QA,Lindsay,2017-10-24 04:00:21.964 UTC,20171023-0058,MKAIV-405 Generic AR1 Phaseup,4k,16, 1.446,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508817627.h5
+QA,Lindsay,2017-10-24 04:20:21.456 UTC,20171023-0060,MKAIV-405 Generic AR1 Phaseup,4k,16, 1.271,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508818825.h5
+QA,Fernando,2017-10-24 04:31:09.182 UTC,20171023-0059,COMM-AR1 PSR B1259-64,4k,16, 5.387,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508819420.h5
+QA,Lindsay,2017-10-24 07:22:16.549 UTC,20171024-0002,MKAIV-308 Basic health,4k,14, 3.803,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508829737.h5
+QA,Lindsay,2017-10-24 07:57:03.666 UTC,20171024-0003,MKAIV-405 Generic AR1 Phaseup,4k,14, 0.713,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508831828.h5
+QA,Lindsay,2017-10-24 08:04:07.487 UTC,20171024-0004,MKAIV-584 Generic AR1 delaycal,4k,14, 0.577,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508832248.h5
+QA,Lindsay,2017-10-24 08:09:35.348 UTC,20171024-0005,MKAIV-405 Generic AR1 Phaseup,4k,14, 0.558,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508832575.h5
+QA,Observer,2017-10-24 08:36:30.893 UTC,20171024-0006,SKARAB: PhaseUp no delays,4k,04, 0.062,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508834178.h5
+QA,Observer,2017-10-24 08:43:02.727 UTC,20171024-0007,SKARAB: PhaseUp with delays,4k,04, 0.053,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508834585.h5
+QA,Observer,2017-10-24 09:24:21.678 UTC,20171024-0008,SKARAB: PhaseUp no delays,4k,04, 0.052,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508837065.h5
+QA,Observer,2017-10-24 09:30:29.523 UTC,20171024-0011,SKARAB: PhaseUp no delays,4k,04, 0.072,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508837433.h5
+QA,Lindsay,2017-10-24 09:36:29.331 UTC,20171024-0012,MKAIV-584 Generic AR1 delaycal,4k,10, 0.274,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508837789.h5
+QA,Maciej Serylak,2017-10-24 09:36:37.367 UTC,20171024-0010,SKARAB/ROACH2 tests: Vela - SKARAB Capture,4k,01, 0.082,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508837728.h5
+QA,Lindsay,2017-10-24 09:42:45.172 UTC,20171024-0013,MKAIV-405 Generic AR1 Phaseup,4k,10, 0.211,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508838166.h5
+QA,Maciej Serylak,2017-10-24 09:46:05.127 UTC,20171024-0014,SKARAB/ROACH2 tests: Vela - SKARAB Capture,4k,01, 0.080,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508838356.h5
+QA,Lindsay,2017-10-24 09:58:44.720 UTC,20171024-0016,MKAIV-584 Generic AR1 delaycal,4k,10, 0.232,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508839127.h5
+QA,Maciej Serylak,2017-10-24 10:00:04.772 UTC,20171024-0015,SKARAB/ROACH2 tests: Vela - SKARAB Capture,4k,01, 0.083,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508839198.h5
+QA,Lindsay,2017-10-24 10:02:52.615 UTC,20171024-0017,MKAIV-405 Generic AR1 Phaseup,4k,10, 0.211,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508839376.h5
+QA,Lindsay,2017-10-24 10:37:31.931 UTC,20171024-0018,MKAIV-584 Generic AR1 delaycal,4k,13, 0.472,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508841449.h5
+QA,Lindsay,2017-10-24 10:42:51.796 UTC,20171024-0019,MKAIV-405 Generic AR1 Phaseup,4k,13, 0.338,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508841776.h5
+QA,Lindsay,2017-10-24 11:03:14.851 UTC,20171024-0023,MKAIV-405 Generic AR1 Phaseup,4k,15, 0.682,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508842998.h5
+QA,Maciej Serylak,2017-10-24 11:05:31.111 UTC,20171024-0009,SKARAB/ROACH2 tests: PKS 1934-63 - SKARAB Capture,4k,01, 0.086,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508842990.h5
+QA,AR1,2017-10-24 11:08:42.712 UTC,20171024-0024,AR1: MKAIV-214 Phase-up 1934 gain 1500,4k,15, 0.476,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508843328.h5
+QA,Maciej Serylak,2017-10-24 11:11:14.965 UTC,20171024-0022,SKARAB/ROACH2 tests: PKS 1934-63 - SKARAB Capture,4k,01, 0.084,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508843468.h5
+QA,Maciej Serylak,2017-10-24 11:16:58.820 UTC,20171024-0021,SKARAB/ROACH2 tests: PKS 1934-63 - SKARAB Capture,4k,01, 0.085,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508843809.h5
+QA,Maciej Serylak,2017-10-24 11:22:34.678 UTC,20171024-0020,SKARAB/ROACH2 tests: PKS 1934-63 - SKARAB Capture,4k,01, 0.084,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508844149.h5
+QA,AR1,2017-10-24 11:34:42.057 UTC,20171024-0026,AR1: MKAIV-214 Phase-up 1934 gain 1500,4k,14, 0.571,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508844884.h5
+QA,Observer,2017-10-24 12:05:12.463 UTC,20171024-0036,SKARAB: PhaseUp no delays,4k,04, 0.294,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508846709.h5
+QA,Observer,2017-10-24 12:10:51.320 UTC,20171024-0037,SKARAB: Drift scan without delays,4k,04, 1.425,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508847051.h5
+QA,AR1,2017-10-24 12:42:00.349 UTC,20171024-0028,AR1: MKAIV-214 Phase-up 1934 gain 3000,4k,14, 0.440,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508848927.h5
+QA,AR1,2017-10-24 13:46:54.702 UTC,20171024-0030,AR1: MKAIV-214 Phase-up 1934 gain 3500,4k,14, 0.470,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508852817.h5
+QA,Lindsay,2017-10-24 14:27:33.849 UTC,20171024-0042,MKAIV-584 Generic AR1 delaycal,4k,04, 0.041,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508855253.h5
+QA,Lindsay,2017-10-24 14:31:17.754 UTC,20171024-0041,MKAIV-308 Basic health,4k,04, 0.353,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508855480.h5
+QA,Lindsay,2017-10-24 15:48:51.673 UTC,20171024-0043,MKAIV-584 Generic AR1 delaycal,4k,16, 0.595,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508860133.h5
+QA,Lindsay,2017-10-24 15:53:39.551 UTC,20171024-0044,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.531,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508860419.h5
+QA,sarah,2017-10-24 15:58:19.433 UTC,20171024-0046,MKAIV-388 CBF J1644-4559,4k,16, 0.849,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508860655.h5
+QA,Lindsay,2017-10-24 16:10:51.300 UTC,20171024-0047,MKAIV-584 Generic AR1 delaycal,4k,16, 0.594,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508861447.h5
+QA,Lindsay,2017-10-24 16:17:07.141 UTC,20171024-0048,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.520,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508861831.h5
+QA,sarah,2017-10-24 16:21:55.019 UTC,20171024-0049,MKAIV-388 CBF J1644-4559,4k,16, 0.838,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508862074.h5
+QA,Lindsay,2017-10-24 16:27:46.870 UTC,20171024-0050,MKAIV-405 Generic AR1 Phaseup,4k,16, 0.630,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508862470.h5
+QA,Maciej,2017-10-24 16:32:50.742 UTC,20171024-0051,COMM-185 CBF J1622-4950,4k,16, 3.228,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508862731.h5
+QA,Lindsay,2017-10-24 17:00:18.045 UTC,20171024-0052,MKAIV-216 Phase-down,4k,16, 0.664,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508864424.h5
+QA,Lindsay,2017-10-24 17:30:33.277 UTC,20171024-0053,MKAIV-232 Baseline Calibration (Delay model calculation),4k,16,111.947,/var/kat/archive2/data/MeerKATAR1/telescope_products/2017/10/24/1508866232.h5

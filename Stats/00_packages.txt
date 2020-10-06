@@ -1,0 +1,6 @@
+matplotlib, numpy, scipy, seaborn, ipyaladin, astroquery, glue
+pip install ipyaladin
+jupyter nbextension enable --py --sys-prefix ipyaladin
+pip install glueviz[all]
+Non-python: topcat, aladin stand alone
+Also install acalib (with pip) IF we have time!
